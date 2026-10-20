@@ -8,7 +8,7 @@ Een generieke mastervragenlijst ontwikkeld voor het verzamelen van gegevens bij 
 ### DPIA's
 Data Privacy Impact Assessments (DPIA's) voor het veilig verwerken van gegevens verzameld tijdens uitbraakonderzoek. De DPIA's zijn opgesteld in samenwerking met, en goedgekeurd door, een Privacy Officer en Functionaris Gegevensbescherming. Ze kunnen als voorbeeld worden gebruikt en worden aangepast aan de situatie van de eigen GGD.
 ### R-scripts
-Voor het analyseren en presenteren van verzamelde uitbraakdata. De scripts sluiten aan op gegevens zoals geregistreerd in HP Zone, Osiris, Enalyzer of een zelf opgestelde linelist in Excel. Voor elk script is een dummydataset ontwikkeld.
+Voor het analyseren en presenteren van verzamelde uitbraakdata. De scripts sluiten aan op gegevens zoals geregistreerd in HP Zone, Osiris, Enalyzer of een zelf opgestelde linelist in Excel. Voor elk script is een dummydataset ontwikkeld, zie tabel hieronder.
 | R-script | Dataset |
 |-----------|----------|
 | `script_beschrijvende_epidemiologie` | `dummy_data_hp_zone` |
